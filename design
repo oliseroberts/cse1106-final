@@ -1,0 +1,8 @@
+Smart Classroom Comfort Monitor
+
+Our temperature monitor will display temperature readings to the screen with a label of "Normal" or "Warning" depending on the range requirements.
+  Readings that are out of range will trigger the LED light to turn on.
+  Temperature readings will be displayed on the screen as well as saved to a file. 
+  Readings will be taken from user input and range validated using a function created outside of main.
+  This function will compare the input using a conditional statement and return true or false.
+  The led function will be written outside of main.
