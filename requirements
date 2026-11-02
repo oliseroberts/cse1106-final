@@ -1,0 +1,7 @@
+Smart Classroom Comfort Monitor
+
+- Program will read room temperature and check that it is in the acceptable range of 68-76 degrees F.
+- Program will display results with status of "warning" or "normal"
+- Readings with "warning" status will trigger the LED to turn on
+- Average temp will be calculated and displayed to screen
+- Temp readings and their status will be saved to a file
